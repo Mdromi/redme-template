@@ -139,8 +139,9 @@ __Markdown Link Sytax__
 </br>
 
 __Image Sytax__  
-<p>![alt text](image) </p>  
-![Profile](./images/MdRomi.jpg)
+</br>
+
+![Profile](./images/MdRomi.jpg)  
 <img src = "./images/Md_Romi.jpg" title = "Profile Image"/>
 🙂
 
