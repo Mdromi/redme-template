@@ -1,0 +1,17 @@
+---Markdown---
+1. What & why README.md
+2. How to make a comment 
+3. Normal text & new line
+4. Horizontal rule
+5. Headings
+6. Paragraph
+7. Italic
+8. Bold
+9. Strikethrough
+10. Inline code block
+11. Multiple line code block
+12. List
+13. Link
+14. Image 
+15. Emoji
+16. Table
